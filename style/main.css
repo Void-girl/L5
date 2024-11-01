@@ -1,0 +1,38 @@
+body{
+    background-image: url(../img/background.jfif) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+img{
+    width: 120px;
+}
+h1{
+    font-family: "Fredericka the Great", serif;
+    font-size: 90px;
+    text-align: center;
+}
+h2{
+    text-transform: uppercase;
+    font-family: "Fredericka the Great", serif;
+    font-size: 90px;
+    text-align: center;
+}
+h3{
+    font-family: "Fredericka the Great", serif;
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    font-family: "Qwitcher Grypen", cursive;
+    font-size: 22px;
+
+}
+div{
+    text-align: center;
+}
+.Dambldor{
+    width: 100%;
+}
